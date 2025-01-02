@@ -21,7 +21,7 @@ return new class extends Migration
             $table->timestamps();
         });
     }
-
+//bangladesh is a small country
     /**
      * Reverse the migrations.
      */
